@@ -1,0 +1,11 @@
+[Desktop Entry]
+Type=Application
+Name=SoundCloud
+GenericName=Music Player
+Comment=Terminal SoundCloud player (sctui)
+Exec=omarchy-launch-or-focus-tui --app-id=org.omarchy.sctui sc
+Icon=sctui
+Terminal=false
+Categories=AudioVideo;Audio;Music;Player;
+Keywords=soundcloud;music;sctui;player;
+StartupWMClass=org.omarchy.sctui

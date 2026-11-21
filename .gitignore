@@ -1,0 +1,12 @@
+# Python / uv
+.venv/
+__pycache__/
+*.pyc
+dist/
+build/
+*.egg-info/
+
+# Personal config & secrets: sctui reads ~/.config/sctui/config.toml, never commit one
+config.toml
+.env
+*.sock
